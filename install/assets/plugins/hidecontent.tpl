@@ -14,8 +14,7 @@
  * @internal    @installset base
  */
  
-
- //{hidecontent}скрытый текст{/hidecontent}
+//{hidecontent}скрытый текст{/hidecontent}
 //{hidecontent groups=`Registered Users`}скрытый текст{/hidecontent}
 //{hidecontent alternative=`зарегистрируйтесь, чтобы увидеть скрытый текст`}скрытый текст{/hidecontent}
 function checkHide($m){
