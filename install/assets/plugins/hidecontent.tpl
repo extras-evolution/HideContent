@@ -7,7 +7,6 @@
  * @category    plugin 
  * @version     1.0 
  * @license     http://www.gnu.org/copyleft/gpl.html GNU Public License (GPL) 
- * @author      Valyan 
  * @internal    @properties 
  * @internal    @events OnWebPagePrerender 
  * @internal    @modx_category Content 
