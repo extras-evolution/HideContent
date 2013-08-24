@@ -1,5 +1,19 @@
 //<?php
-/** * HideContent * * @category     plugin * @version     1.0 * @license     http://www.gnu.org/copyleft/gpl.html GNU Public License (GPL) * @author      Valyan * @internal    @properties * @internal    @events OnWebPagePrerender * @internal    @modx_category Login */
+/** 
+ * HideContent 
+ * 
+ * Hide Content from unregistred users
+ *
+ * @category    plugin 
+ * @version     1.0 
+ * @license     http://www.gnu.org/copyleft/gpl.html GNU Public License (GPL) 
+ * @author      Valyan 
+ * @internal    @properties 
+ * @internal    @events OnWebPagePrerender 
+ * @internal    @modx_category Content 
+ * @internal    @legacy_names directResize
+ * @internal    @installset base
+ */
  
 
  //{hidecontent}скрытый текст{/hidecontent}
